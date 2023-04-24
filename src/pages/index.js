@@ -6,12 +6,8 @@ export default function Home() {
     <>
     <div className="hero min-h-screen bg-white">
   <div className="hero-content flex-row lg:flex-row-reverse">
-    <img src="/image.jpg" className="max-w-sm rounded-lg " />
-    <div>
-      <h1 className="text-5xl font-bold">Silva Construction</h1>
-      <p className="py-6">Find out why we are the best company for your home improvement needs.</p>
-      <button className="btn btn-primary">Info</button>
-    </div>
+    <img src="/image.jpg" className=" " />
+   
   </div>
 </div>
 <div className="hero min-h-screen" style={{ backgroundImage: "/image.jpg"}}>
