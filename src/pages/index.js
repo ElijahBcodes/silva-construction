@@ -1,10 +1,10 @@
-
+import navbar from '../components/Navbar'
 import Image from 'next/image'
 
 export default function Home() {
   return (
     <>
-    <div className="hero min-h-screen bg-white">
+    <div className=" min-h-screen bg-white">
   <div className="hero-content flex-row lg:flex-row-reverse">
     <img src="/image.jpg" className=" " />
    
